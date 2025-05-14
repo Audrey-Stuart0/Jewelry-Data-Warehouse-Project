@@ -1,5 +1,5 @@
 # MoonGlim Jewelry Data Warehousing Project
-(Collabrative Project between Audrey Stuart and Mouyseang An)
+(Collaborative Project between Audrey Stuart and Mouyseang An)
 ## Project Overview  
 MoonGlim Jewelry is a luxury Direct-to-Consumer (D2C) brand focused on high-quality jewelry and ethical sourcing. This data warehousing project aims to centralize sales, customer, and product data to drive actionable insights for business growth. The project follows a structured approach, including **ETL processes**, **data mart design**, **analytical reporting**, and **dashboard development** to support decision-making across departments.
 
